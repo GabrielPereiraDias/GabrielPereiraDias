@@ -11,7 +11,7 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 - 🎓 **Cursando:** Técnico em Desenvolvimento de Sistemas (SENAI).
 - 🎯 **Foco atual:** Lógica de programação, Back-end e Banco de Dados.
 - 🌱 **Aprendendo:** Versionamento com Git e Arduino
-- 📫 **Como me encontrar:** 
+- 📫 **Como me encontrar:*bielcabesa8@outlook.com* 
 
 ---
 
