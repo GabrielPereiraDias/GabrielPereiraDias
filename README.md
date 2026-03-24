@@ -39,11 +39,11 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPereiraDias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 <p align="center">
-  Desenvolvido com ☕ e persistência por Gabriel Pereira Dias.
+  Desenvolvido com laele e persistência por Gabriel Pereira Dias.
 </p>
