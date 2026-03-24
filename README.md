@@ -11,7 +11,7 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 - 🎓 **Cursando:** Técnico em Desenvolvimento de Sistemas (SENAI).
 - 🎯 **Foco atual:** Lógica de programação, Front-end e Banco de Dados.
 - 🌱 **Aprendendo:** JavaScript, HTML/CSS e versionamento com Git.
-- 📫 **Como me encontrar:** [SEU_EMAIL@EXEMPLO.COM]
+- 📫 **Como me encontrar:** [laele@manoelgomes.com]
 
 ---
 
