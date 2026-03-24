@@ -11,7 +11,7 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 - 🎓 **Cursando:** Técnico em Desenvolvimento de Sistemas (SENAI).
 - 🎯 **Foco atual:** Lógica de programação, Back-end e Banco de Dados.
 - 🌱 **Aprendendo:** Versionamento com Git e Arduino
-- 📫 **Como me encontrar: *gabriel.p.dias@edu.senai.br* 
+- 📫 **Como me encontrar:** *gabriel.p.dias@edu.senai.br* 
 
 ---
 
