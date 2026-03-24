@@ -25,4 +25,4 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 ---
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&show_icons=false&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&show_icons=false&theme=radical&include_all_commits=true">
