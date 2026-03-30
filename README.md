@@ -2,7 +2,7 @@
 
 </div>
 
-# Olá, eu sou o Gabriel Pereira Dias! 👋
+#               Olá, eu sou o Gabriel Pereira Dias! 👋
 
 ### 🚀 Futuro Desenvolvedor de Sistemas | Estudante SENAI
 
