@@ -1,11 +1,11 @@
-# EXEMPLO DE TEMPLATE PREENCHIDO:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
 
 # 💫 Sobre mim:
-Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2012 com Java e Kotlin. Começei a programar no IFPR Campus de Paranaguá no Paraná quando iniciei o curso técnico de informática.
-
-Tenho muito gosto por desenvolver aplicativos e ensinar outros devs e iniciarem na carreira de desenvolvimento Android.
-
-**Atualmente:** Trabalhando como desenvolvedor sênior na Goomer.
+Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro semestre do curso.
+**Aprendendo:** Versionamento em GitHub e metodologia SCRUM.
 
 # 📧 Contato:
 
@@ -24,3 +24,7 @@ Tenho muito gosto por desenvolver aplicativos e ensinar outros devs e iniciarem 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPereiraDias&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielPereiraDias&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Obrigado por visitar meu perfil ! 🚀📚
+</div>
+scr:"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8wa25iZmp3NTgzN3VxM3JuNnRqa25rc2ppeGdiOTF2eWplZnMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECvlptev6UZCGeSikQ/giphy.gif"
