@@ -29,7 +29,7 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 ---
 ##  🍌 Meus status :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&show_icons=false&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&theme=radical&include_all_commits=true">
 
 <details closed> 
   <summary><h2>Linguagens de Programação 💻</h2></summary>
