@@ -26,5 +26,5 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 [![](https://visitcount.itsvg.in/api?id=GabrielPereiraDias&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Obrigado por visitar meu perfil ! 🚀📚
-</div>
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW05OTRqbDhtbzFxc3I4bnhhbm83NzJxejZsOTQxcm0xNWExYXRmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sj5jOmKsr8zQaOPSyO/giphy.gif" width="400" alt="Gif de Programação">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8wa25iZmp3NTgzN3VxM3JuNnRqa25rc2ppeGdiOTF2eWplZnMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECvlptev6UZCGeSikQ/giphy.gif"/>
