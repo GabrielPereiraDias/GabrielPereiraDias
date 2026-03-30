@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 # Olá, eu sou o Gabriel Pereira Dias! 👋
