@@ -26,3 +26,9 @@ Atualmente, estou mergulhado no mundo da tecnologia através do curso **Técnico
 ##  🍌 Meus status :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&show_icons=false&theme=radical&include_all_commits=true">
+
+<details closed> 
+  <summary><h2>Linguagens de Programação 💻</h2></summary>
+
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Ainda+no+processo+de+aprendizagem+%F0%9F%93%9A;Em+breve+%E2%8F%B3)](https://git.io/typing-svg)
+</details>
