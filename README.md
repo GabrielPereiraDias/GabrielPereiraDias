@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=631FFF&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,4 +28,4 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 
 ## Obrigado por visitar meu perfil ! 🚀📚
 
-<img src="https://s8.ezgif.com/tmp/ezgif-878632e4b168f828.gif" alt="Descrição" width="500">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhkcnZ4NHA4cWFybDY0ejM3MjRyaTFwc2Q3Y3NqMzJxaW1scmR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECvlptev6UZCGeSikQ/giphy.gif" alt="Descrição" width="500">
