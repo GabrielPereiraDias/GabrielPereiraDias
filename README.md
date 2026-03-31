@@ -13,7 +13,7 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 <a href="mailto:bielacbesa8@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 
 ## 🌐 Redes Sociais:
-<a href="https://instagram.com/kaiqueocanha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+<a href="https://instagram.com/perebas09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 
 
 # 💻 Tech Stack:
