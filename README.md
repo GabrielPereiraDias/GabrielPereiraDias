@@ -28,4 +28,4 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 
 ## Obrigado por visitar meu perfil ! 🚀📚
 
-<img src=Y2lkPTc5MGI3NjExbXhkcnZ4NHA4cWFybDY0ejM3MjRyaTFwc2Q3Y3NqMzJxaW1scmR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw>
+<img src= https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhkcnZ4NHA4cWFybDY0ejM3MjRyaTFwc2Q3Y3NqMzJxaW1scmR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECvlptev6UZCGeSikQ/giphy.gif>
