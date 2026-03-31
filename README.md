@@ -28,4 +28,4 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 
 ## Obrigado por visitar meu perfil ! 🚀📚
 
-<img src="https://s8.ezgif.com/tmp/ezgif-88da3e3fa6b24e11.gif" alt="Descrição" width="500">
+<img src="https://s8.ezgif.com/tmp/ezgif-878632e4b168f828.gif" alt="Descrição" width="500">
