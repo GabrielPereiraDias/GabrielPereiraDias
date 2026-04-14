@@ -19,6 +19,7 @@ Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
+<img src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielPereiraDias&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
