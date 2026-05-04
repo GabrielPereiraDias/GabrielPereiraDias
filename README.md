@@ -3,7 +3,7 @@
 </div>
 
 
-# 💫 Sobre mim:
+# 👻 Sobre mim:
 Estudante do Senai, cursando desenvolvimento de sistemas, atualmente no primeiro semestre do curso.
 
 **Aprendendo:** Versionamento em GitHub e metodologia SCRUM.
